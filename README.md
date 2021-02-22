@@ -27,9 +27,9 @@ Funcionalidade: Logar na rede social Facebook
    Então termino
 ```
 
-- Dado (palavra reservada) tem que ter o msm conteudo na anotaçcao > @given do projeto.py
-- Quando(palavra reservada, se tiver mais um quando, iniciar a segunda linha com 'E') tem que ter o msm conteudo na anotaçcao > @when do projeto.py
-- Entao(palavra reservada) tem que ter o msm conteudo na anotaçcao > @then do projeto.py
+- **Dado** (palavra reservada) tem que ter o msm conteudo na anotaçcao > **@given** do projeto.py
+- **Quando** (palavra reservada, se tiver mais um quando, iniciar a segunda linha com 'E') tem que ter o msm conteudo na anotaçcao > **@when** do projeto.py
+- **Entao** (palavra reservada) tem que ter o msm conteudo na anotaçcao > **@then** do projeto.py
 
 - Seta a url a ser acessada;
 - Setar os valores nos campos, para acessar os campos seguir o manual do selenium:
